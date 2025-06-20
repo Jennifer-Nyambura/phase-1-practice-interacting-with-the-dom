@@ -28,8 +28,8 @@
   "homepage": "https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "jsdom": "^9.0",
-    "mocha": "5.2.0",
+    "jsdom": "^26.1.0",
+    "mocha": "^11.7.0",
     "mocha-jsdom": "~1.1.0"
   }
 }
